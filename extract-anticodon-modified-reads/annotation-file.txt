@@ -1,0 +1,226 @@
+GeneName	Position	SprinzlPos	Nucleotide	Region	Note
+nuclear-Ath-TrpCCA-171732	1	1	G	5' acceptor stem	
+nuclear-Ath-TrpCCA-171732	2	2	G	5' acceptor stem	
+nuclear-Ath-TrpCCA-171732	3	3	A	5' acceptor stem	
+nuclear-Ath-TrpCCA-171732	4	4	T	5' acceptor stem	
+nuclear-Ath-TrpCCA-171732	5	5	C	5' acceptor stem	
+nuclear-Ath-TrpCCA-171732	6	6	C	5' acceptor stem	
+nuclear-Ath-TrpCCA-171732	7	7	G	5' acceptor stem	
+nuclear-Ath-TrpCCA-171732	8	8	T	P 8-9	
+nuclear-Ath-TrpCCA-171732	9	9	G	P 8-9	
+nuclear-Ath-TrpCCA-171732	10	10	G	5' D stem	
+nuclear-Ath-TrpCCA-171732	11	11	C	5' D stem	
+nuclear-Ath-TrpCCA-171732	12	12	G	5' D stem	
+nuclear-Ath-TrpCCA-171732	13	13	C	5' D stem	
+nuclear-Ath-TrpCCA-171732	14	14	A	D loop	
+nuclear-Ath-TrpCCA-171732	15	15	A	D loop	
+nuclear-Ath-TrpCCA-171732	16	16	T	D loop	
+nuclear-Ath-TrpCCA-171732	17	18	G	D loop	
+nuclear-Ath-TrpCCA-171732	18	19	G	D loop	
+nuclear-Ath-TrpCCA-171732	19	20	T	D loop	
+nuclear-Ath-TrpCCA-171732	20	21	A	D loop	
+nuclear-Ath-TrpCCA-171732	21	22	G	3' D stem	
+nuclear-Ath-TrpCCA-171732	22	23	C	3' D stem	
+nuclear-Ath-TrpCCA-171732	23	24	G	3' D stem	
+nuclear-Ath-TrpCCA-171732	24	25	C	3' D stem	
+nuclear-Ath-TrpCCA-171732	25	26	G	P 26	
+nuclear-Ath-TrpCCA-171732	26	27	T	5' anticodon stem	
+nuclear-Ath-TrpCCA-171732	27	28	C	5' anticodon stem	
+nuclear-Ath-TrpCCA-171732	28	29	T	5' anticodon stem	
+nuclear-Ath-TrpCCA-171732	29	30	G	5' anticodon stem	
+nuclear-Ath-TrpCCA-171732	30	31	A	5' anticodon stem	
+nuclear-Ath-TrpCCA-171732	31	32	C	Anticodon loop	
+nuclear-Ath-TrpCCA-171732	32	33	T	Anticodon loop	
+nuclear-Ath-TrpCCA-171732	33	34	C	Anticodon loop	anticodon
+nuclear-Ath-TrpCCA-171732	34	35	C	Anticodon loop	anticodon
+nuclear-Ath-TrpCCA-171732	35	36	A	Anticodon loop	anticodon
+nuclear-Ath-TrpCCA-171732	36	37	G	Anticodon loop	
+nuclear-Ath-TrpCCA-171732	37	38	A	Anticodon loop	
+nuclear-Ath-TrpCCA-171732	38	39	T	3' anticodon stem	
+nuclear-Ath-TrpCCA-171732	39	40	C	3' anticodon stem	
+nuclear-Ath-TrpCCA-171732	40	41	A	3' anticodon stem	
+nuclear-Ath-TrpCCA-171732	41	42	G	3' anticodon stem	
+nuclear-Ath-TrpCCA-171732	42	43	A	3' anticodon stem	
+nuclear-Ath-TrpCCA-171732	43	44	A	Variable loop	
+nuclear-Ath-TrpCCA-171732	44	45	G	Variable loop	
+nuclear-Ath-TrpCCA-171732	45	46	G	Variable loop	
+nuclear-Ath-TrpCCA-171732	46	47	T	Variable loop	
+nuclear-Ath-TrpCCA-171732	47	48	T	Variable loop	
+nuclear-Ath-TrpCCA-171732	48	49	G	5' T stem	
+nuclear-Ath-TrpCCA-171732	49	50	C	5' T stem	
+nuclear-Ath-TrpCCA-171732	50	51	G	5' T stem	
+nuclear-Ath-TrpCCA-171732	51	52	T	5' T stem	
+nuclear-Ath-TrpCCA-171732	52	53	G	5' T stem	
+nuclear-Ath-TrpCCA-171732	53	54	T	T loop	
+nuclear-Ath-TrpCCA-171732	54	55	T	T loop	
+nuclear-Ath-TrpCCA-171732	55	56	C	T loop	
+nuclear-Ath-TrpCCA-171732	56	57	G	T loop	
+nuclear-Ath-TrpCCA-171732	57	58	A	T loop	
+nuclear-Ath-TrpCCA-171732	58	59	T	T loop	
+nuclear-Ath-TrpCCA-171732	59	60	T	T loop	
+nuclear-Ath-TrpCCA-171732	60	61	C	3' T stem	
+nuclear-Ath-TrpCCA-171732	61	62	A	3' T stem	
+nuclear-Ath-TrpCCA-171732	62	63	C	3' T stem	
+nuclear-Ath-TrpCCA-171732	63	64	G	3' T stem	
+nuclear-Ath-TrpCCA-171732	64	65	T	3' T stem	
+nuclear-Ath-TrpCCA-171732	65	66	C	3' acceptor stem	
+nuclear-Ath-TrpCCA-171732	66	67	G	3' acceptor stem	
+nuclear-Ath-TrpCCA-171732	67	68	G	3' acceptor stem	
+nuclear-Ath-TrpCCA-171732	68	69	G	3' acceptor stem	
+nuclear-Ath-TrpCCA-171732	69	70	T	3' acceptor stem	
+nuclear-Ath-TrpCCA-171732	70	71	T	3' acceptor stem	
+nuclear-Ath-TrpCCA-171732	71	72	C	3' acceptor stem	
+nuclear-Ath-TrpCCA-171732	72	73	A	Disciminator base	
+nuclear-Ath-TrpCCA-171732	73	74	C	CCA tail	
+nuclear-Ath-TrpCCA-171732	74	75	C	CCA tail	
+nuclear-Ath-TrpCCA-171732	75	76	A	CCA tail	
+nuclear-Ath-TrpCCA-171734	1	1	G	5' acceptor stem	
+nuclear-Ath-TrpCCA-171734	2	2	G	5' acceptor stem	
+nuclear-Ath-TrpCCA-171734	3	3	A	5' acceptor stem	
+nuclear-Ath-TrpCCA-171734	4	4	T	5' acceptor stem	
+nuclear-Ath-TrpCCA-171734	5	5	T	5' acceptor stem	
+nuclear-Ath-TrpCCA-171734	6	6	C	5' acceptor stem	
+nuclear-Ath-TrpCCA-171734	7	7	G	5' acceptor stem	
+nuclear-Ath-TrpCCA-171734	8	8	T	P 8-9	
+nuclear-Ath-TrpCCA-171734	9	9	G	P 8-9	
+nuclear-Ath-TrpCCA-171734	10	10	G	5' D stem	
+nuclear-Ath-TrpCCA-171734	11	11	C	5' D stem	
+nuclear-Ath-TrpCCA-171734	12	12	G	5' D stem	
+nuclear-Ath-TrpCCA-171734	13	13	C	5' D stem	
+nuclear-Ath-TrpCCA-171734	14	14	A	D loop	
+nuclear-Ath-TrpCCA-171734	15	15	A	D loop	
+nuclear-Ath-TrpCCA-171734	16	16	T	D loop	
+nuclear-Ath-TrpCCA-171734	17	18	G	D loop	
+nuclear-Ath-TrpCCA-171734	18	19	G	D loop	
+nuclear-Ath-TrpCCA-171734	19	20	T	D loop	
+nuclear-Ath-TrpCCA-171734	20	21	A	D loop	
+nuclear-Ath-TrpCCA-171734	21	22	G	3' D stem	
+nuclear-Ath-TrpCCA-171734	22	23	C	3' D stem	
+nuclear-Ath-TrpCCA-171734	23	24	G	3' D stem	
+nuclear-Ath-TrpCCA-171734	24	25	C	3' D stem	
+nuclear-Ath-TrpCCA-171734	25	26	G	P 26	
+nuclear-Ath-TrpCCA-171734	26	27	T	5' anticodon stem	
+nuclear-Ath-TrpCCA-171734	27	28	C	5' anticodon stem	
+nuclear-Ath-TrpCCA-171734	28	29	T	5' anticodon stem	
+nuclear-Ath-TrpCCA-171734	29	30	G	5' anticodon stem	
+nuclear-Ath-TrpCCA-171734	30	31	A	5' anticodon stem	
+nuclear-Ath-TrpCCA-171734	31	32	C	Anticodon loop	
+nuclear-Ath-TrpCCA-171734	32	33	T	Anticodon loop	
+nuclear-Ath-TrpCCA-171734	33	34	C	Anticodon loop	anticodon
+nuclear-Ath-TrpCCA-171734	34	35	C	Anticodon loop	anticodon
+nuclear-Ath-TrpCCA-171734	35	36	A	Anticodon loop	anticodon
+nuclear-Ath-TrpCCA-171734	36	37	G	Anticodon loop	
+nuclear-Ath-TrpCCA-171734	37	38	A	Anticodon loop	
+nuclear-Ath-TrpCCA-171734	38	39	T	3' anticodon stem	
+nuclear-Ath-TrpCCA-171734	39	40	C	3' anticodon stem	
+nuclear-Ath-TrpCCA-171734	40	41	A	3' anticodon stem	
+nuclear-Ath-TrpCCA-171734	41	42	G	3' anticodon stem	
+nuclear-Ath-TrpCCA-171734	42	43	A	3' anticodon stem	
+nuclear-Ath-TrpCCA-171734	43	44	A	Variable loop	
+nuclear-Ath-TrpCCA-171734	44	45	G	Variable loop	
+nuclear-Ath-TrpCCA-171734	45	46	G	Variable loop	
+nuclear-Ath-TrpCCA-171734	46	47	T	Variable loop	
+nuclear-Ath-TrpCCA-171734	47	48	T	Variable loop	
+nuclear-Ath-TrpCCA-171734	48	49	G	5' T stem	
+nuclear-Ath-TrpCCA-171734	49	50	C	5' T stem	
+nuclear-Ath-TrpCCA-171734	50	51	G	5' T stem	
+nuclear-Ath-TrpCCA-171734	51	52	T	5' T stem	
+nuclear-Ath-TrpCCA-171734	52	53	G	5' T stem	
+nuclear-Ath-TrpCCA-171734	53	54	T	T loop	
+nuclear-Ath-TrpCCA-171734	54	55	T	T loop	
+nuclear-Ath-TrpCCA-171734	55	56	C	T loop	
+nuclear-Ath-TrpCCA-171734	56	57	G	T loop	
+nuclear-Ath-TrpCCA-171734	57	58	A	T loop	
+nuclear-Ath-TrpCCA-171734	58	59	T	T loop	
+nuclear-Ath-TrpCCA-171734	59	60	T	T loop	
+nuclear-Ath-TrpCCA-171734	60	61	C	3' T stem	
+nuclear-Ath-TrpCCA-171734	61	62	A	3' T stem	
+nuclear-Ath-TrpCCA-171734	62	63	C	3' T stem	
+nuclear-Ath-TrpCCA-171734	63	64	G	3' T stem	
+nuclear-Ath-TrpCCA-171734	64	65	T	3' T stem	
+nuclear-Ath-TrpCCA-171734	65	66	C	3' acceptor stem	
+nuclear-Ath-TrpCCA-171734	66	67	G	3' acceptor stem	
+nuclear-Ath-TrpCCA-171734	67	68	G	3' acceptor stem	
+nuclear-Ath-TrpCCA-171734	68	69	G	3' acceptor stem	
+nuclear-Ath-TrpCCA-171734	69	70	T	3' acceptor stem	
+nuclear-Ath-TrpCCA-171734	70	71	T	3' acceptor stem	
+nuclear-Ath-TrpCCA-171734	71	72	C	3' acceptor stem	
+nuclear-Ath-TrpCCA-171734	72	73	A	Disciminator base	
+nuclear-Ath-TrpCCA-171734	73	74	C	CCA tail	
+nuclear-Ath-TrpCCA-171734	74	75	C	CCA tail	
+nuclear-Ath-TrpCCA-171734	75	76	A	CCA tail	
+nuclear-Ath-TrpCCA-183740	1	1	G	5' acceptor stem	
+nuclear-Ath-TrpCCA-183740	2	2	G	5' acceptor stem	
+nuclear-Ath-TrpCCA-183740	3	3	A	5' acceptor stem	
+nuclear-Ath-TrpCCA-183740	4	4	T	5' acceptor stem	
+nuclear-Ath-TrpCCA-183740	5	5	C	5' acceptor stem	
+nuclear-Ath-TrpCCA-183740	6	6	C	5' acceptor stem	
+nuclear-Ath-TrpCCA-183740	7	7	G	5' acceptor stem	
+nuclear-Ath-TrpCCA-183740	8	8	T	P 8-9	
+nuclear-Ath-TrpCCA-183740	9	9	G	P 8-9	
+nuclear-Ath-TrpCCA-183740	10	10	G	5' D stem	
+nuclear-Ath-TrpCCA-183740	11	11	C	5' D stem	
+nuclear-Ath-TrpCCA-183740	12	12	G	5' D stem	
+nuclear-Ath-TrpCCA-183740	13	13	C	5' D stem	
+nuclear-Ath-TrpCCA-183740	14	14	A	D loop	
+nuclear-Ath-TrpCCA-183740	15	15	A	D loop	
+nuclear-Ath-TrpCCA-183740	16	16	T	D loop	
+nuclear-Ath-TrpCCA-183740	17	18	G	D loop	
+nuclear-Ath-TrpCCA-183740	18	19	G	D loop	
+nuclear-Ath-TrpCCA-183740	19	20	T	D loop	
+nuclear-Ath-TrpCCA-183740	20	21	A	D loop	
+nuclear-Ath-TrpCCA-183740	21	22	G	3' D stem	
+nuclear-Ath-TrpCCA-183740	22	23	C	3' D stem	
+nuclear-Ath-TrpCCA-183740	23	24	G	3' D stem	
+nuclear-Ath-TrpCCA-183740	24	25	C	3' D stem	
+nuclear-Ath-TrpCCA-183740	25	26	G	P 26	
+nuclear-Ath-TrpCCA-183740	26	27	T	5' anticodon stem	
+nuclear-Ath-TrpCCA-183740	27	28	C	5' anticodon stem	
+nuclear-Ath-TrpCCA-183740	28	29	T	5' anticodon stem	
+nuclear-Ath-TrpCCA-183740	29	30	G	5' anticodon stem	
+nuclear-Ath-TrpCCA-183740	30	31	A	5' anticodon stem	
+nuclear-Ath-TrpCCA-183740	31	32	C	Anticodon loop	
+nuclear-Ath-TrpCCA-183740	32	33	T	Anticodon loop	
+nuclear-Ath-TrpCCA-183740	33	34	C	Anticodon loop	anticodon
+nuclear-Ath-TrpCCA-183740	34	35	C	Anticodon loop	anticodon
+nuclear-Ath-TrpCCA-183740	35	36	A	Anticodon loop	anticodon
+nuclear-Ath-TrpCCA-183740	36	37	G	Anticodon loop	
+nuclear-Ath-TrpCCA-183740	37	38	A	Anticodon loop	
+nuclear-Ath-TrpCCA-183740	38	39	T	3' anticodon stem	
+nuclear-Ath-TrpCCA-183740	39	40	C	3' anticodon stem	
+nuclear-Ath-TrpCCA-183740	40	41	A	3' anticodon stem	
+nuclear-Ath-TrpCCA-183740	41	42	G	3' anticodon stem	
+nuclear-Ath-TrpCCA-183740	42	43	A	3' anticodon stem	
+nuclear-Ath-TrpCCA-183740	43	44	A	Variable loop	
+nuclear-Ath-TrpCCA-183740	44	45	G	Variable loop	
+nuclear-Ath-TrpCCA-183740	45	46	G	Variable loop	
+nuclear-Ath-TrpCCA-183740	46	47	T	Variable loop	
+nuclear-Ath-TrpCCA-183740	47	48	T	Variable loop	
+nuclear-Ath-TrpCCA-183740	48	49	G	5' T stem	
+nuclear-Ath-TrpCCA-183740	49	50	C	5' T stem	
+nuclear-Ath-TrpCCA-183740	50	51	T	5' T stem	
+nuclear-Ath-TrpCCA-183740	51	52	T	5' T stem	
+nuclear-Ath-TrpCCA-183740	52	53	G	5' T stem	
+nuclear-Ath-TrpCCA-183740	53	54	T	T loop	
+nuclear-Ath-TrpCCA-183740	54	55	T	T loop	
+nuclear-Ath-TrpCCA-183740	55	56	C	T loop	
+nuclear-Ath-TrpCCA-183740	56	57	G	T loop	
+nuclear-Ath-TrpCCA-183740	57	58	A	T loop	
+nuclear-Ath-TrpCCA-183740	58	59	T	T loop	
+nuclear-Ath-TrpCCA-183740	59	60	T	T loop	
+nuclear-Ath-TrpCCA-183740	60	61	C	3' T stem	
+nuclear-Ath-TrpCCA-183740	61	62	A	3' T stem	
+nuclear-Ath-TrpCCA-183740	62	63	C	3' T stem	
+nuclear-Ath-TrpCCA-183740	63	64	G	3' T stem	
+nuclear-Ath-TrpCCA-183740	64	65	T	3' T stem	
+nuclear-Ath-TrpCCA-183740	65	66	C	3' acceptor stem	
+nuclear-Ath-TrpCCA-183740	66	67	G	3' acceptor stem	
+nuclear-Ath-TrpCCA-183740	67	68	G	3' acceptor stem	
+nuclear-Ath-TrpCCA-183740	68	69	G	3' acceptor stem	
+nuclear-Ath-TrpCCA-183740	69	70	T	3' acceptor stem	
+nuclear-Ath-TrpCCA-183740	70	71	T	3' acceptor stem	
+nuclear-Ath-TrpCCA-183740	71	72	C	3' acceptor stem	
+nuclear-Ath-TrpCCA-183740	72	73	A	Disciminator base	
+nuclear-Ath-TrpCCA-183740	73	74	C	CCA tail	
+nuclear-Ath-TrpCCA-183740	74	75	C	CCA tail	
+nuclear-Ath-TrpCCA-183740	75	76	A	CCA tail	

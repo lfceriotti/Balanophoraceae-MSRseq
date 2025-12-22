@@ -1,0 +1,4 @@
+GeneName	Anticodon	Anticodon_modified
+nuclear-Ath-TrpCCA-171734	CCA	TCA
+nuclear-Ath-TrpCCA-183740	CCA	TCA
+nuclear-Ath-TrpCCA-171732	CCA	TCA
