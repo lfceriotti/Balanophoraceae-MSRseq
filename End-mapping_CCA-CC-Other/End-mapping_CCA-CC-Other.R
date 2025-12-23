@@ -1,5 +1,10 @@
 #!/usr/bin/env Rscript
 
+## This script aggregates CCA, CC, and other 3′-end categories from multiple
+## tRNA CCA-editing summary files and visualizes their relative abundances per library.
+
+
+## Load required libraries
 library(tidyverse)
 
 ## Working directory
