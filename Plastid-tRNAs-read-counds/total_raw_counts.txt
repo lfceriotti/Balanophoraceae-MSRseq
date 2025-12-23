@@ -1,0 +1,15 @@
+Lib	Nreads_raw
+Balano1a	3282114
+Balano1b	9639814
+Balano1c	30771550
+Balano2a	1031626
+Balano2b	5197381
+Balano2c	25809663
+At_30_Cont_1	5981738
+At_30_Cont_2	6062763
+Lp_30_Cont_1	14659116
+Lp_30_Cont_2	18021374
+No_template_1	2626034
+No_template_2	3076416
+Os_65_Cont_1	24417993
+Os_65_Cont_2	22458925
