@@ -9,3 +9,5 @@ Annotation file consists of [Sprinzl coordinates](https://github.com/dbsloan/Ara
 Run the script using:
 
 `python anticodon-mismatch-SAM-filtering.py annotation-file.txt mismatch-file.txt input.sam output.sam`
+
+Output from above was used to generate sequence variant data based on [Edera and Sanchez-Puerta 2021](https://link.springer.com/protocol/10.1007/978-1-0716-0787-9_2)
