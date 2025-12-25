@@ -2,7 +2,7 @@
 
 This analysis quantifies tRNA read coverage and identifies sequence variants associated with base modifications.
 
-For Lophophyum and Ombrophytum nuclear-encoded tRNA-Trps, reads exhibiting specific anticodon modifications were selectively extracted. 
+For Lophophyum and Ombrophytum nuclear-encoded tRNA-Trps, reads exhibiting specific anticodon modifications were selectively extracted following this [workflow](https://github.com/lfceriotti/Balanophoraceae-MSRseq/edit/main/anticodon-mismatch-SAM-filtering). tRNA read coverage was quantified and sequence variants identified on the outputs. 
 
 Input files containing sequence variant data were generated following the workflow described in [Ceriotti et al. (2024)](https://github.com/dbsloan/Arabidopsis_aminoacylation).
 
