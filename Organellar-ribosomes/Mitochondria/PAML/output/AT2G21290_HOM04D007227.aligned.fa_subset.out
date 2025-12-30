@@ -1,0 +1,427 @@
+
+Before deleting alignment gaps
+     20    222
+
+Ombrophytum                     ATG GCA ATG TTA CAG TTG TGT AGT GCA ACA TCC CGG AGA GTA CTA GCT TTG AGT AGA CCC ATT GTC TGC GGA AGA GGT GAT AAG AGG ACC AAG AAG GGG AAG CGG TTC AAG GGA TCA TTT GGA AAC GCA AGA CCT AAG AAG AAG CAT ATG ATA GAG AGG TTC AAG GAC AAG GTG GAG GTT CCC AGG TCC ACT CCC TGG ??? CTA CCT TTC AAA CTT ATT ??? 
+Dendropemon                     ATG GCG CTA CTC CGG AAG TGC GGC GCA GCC GCC CGG AGG ACG ATG ATG ACG ATG CGC CCG ATG GAG TGC GGG CGG GGG GAC AAG AGG ACG AAG AAA GGG AAG CGG TTC AAT CGG TCG TAC GGA AAC TCG AGG GGG AAG AAG AAG AAG AAG ATC GAG CGG ATC AAG GAC AAG GTT GAG GTG CCC AGG TCT ACT CCT TGG ??? CTC CCC TTC AAA CTC ATC ??? 
+Daenikera                       ATG GCG ATG GTG CAG TGG TGC GGT GCG GTG GCG AGG AGG GTG ATG AAG GCG GAG CGA CCG GTA CTG TGT GGA AGA GGA GAC AAG AGG ACG AAG AGA GGG AAG CGG TTC AGG AGA TCG TTC GGC AAA TCG AGG CCT CAG AAA GAT GTC GTT GTT CGC CGC TTC AAG GCC AAG GTT GAG GCC CCT AAG GGT ACT CCT TGG ??? CTC CCC TTC AAA CTC ATG ??? 
+Malania                         ATG GCG ATG ATG CAG TGG TGC GGC GCA GTA GCC AGG AGG ATG ATG ATG ACG GAG CGA CCG ATC CTA TGC GGG CGA GGG GAT AAG AGG ACG AAG AAA GGG AAG CGG TTC AAG GGA ACG TAC GGC AAC GCG AGG CCC AAG AGG AAG CAG ATG ATC CAG CGG ATC AAG GAC AAG GTT GAG GTC CCC AGG TCC ACT CCT TGG ??? CTC CCT TTC AAG CTC ATT ??? 
+Balanophora                     TAC CGT ATG TCG GAG AAT TTG AGT GTG GTT GGT GTG AAG GTG ATT AGG AAT GGA AGG CCT TCT CTA TGT GGG CGA GGA GAT AAA AGA ACT AAG CGG GGG AAA CGA TTC AAG GGA TCG TTT GGA AAT TGC AGA CCT AAG AAG GAC AAG TTC ATT GAA CGC ATC AAG GAC AAG ATC GAG GTC CCT AGA TCT ACT CCT TGG ??? TTG CCT TTT AAG CTC ATT ??? 
+Arabidopsis                     ATG GCG GCG ATG CAG TGG TGC GGC GCG ATG ACA CGA CGG ATT ATG ATG ACG CAG CGA ATG GAT TTG TGT GGG AGA GGA GAT AAG AAG ACG AAG AAA GGG AAA AGA TTC AAA GGA TCG TAC GGG AAT TCG AGA GGG AAG AAA CAG AAG ATG ATT GAG AGA ATC AAA GAC AAG CTT GAG CTT CCC AGG TCT ACT CCT TGG ??? CTT CCT TTC AAG CTC ATC ??? 
+Anadenanthera                   GGT GGC ATG ATG CAG TGG TTG GGT GCA GTA GCG AGG CGG GGG GCG GCG GCG GGA AGA CCG ATA TTG TGT GGG CGT GGG GAC AAG AAG ACA AAG AGA GGG AAG AGA TTC AAG GGA TCA TAC GGC AAC GCT AGG CCA AAG AGG GAG AAG ATG ATC GAG CGC ATT AAG GAC AAG GTC GAG GTT CCC AGG TCT ACT CCT TGG ??? CTT CCA TTC AAG CTT ATC ??? 
+Solanum                         ATG GCG ATG ACA CAG TGG TGC AGC ACA GTA GCG AGG AGA CTG ATG ACT GTT ATG GAG CCG ATC CTT TGC GGA CGA GGG GAC AAG AGG ACG AAG AAA GGG AAG AGA TTC AAA GAT TCG TAT GGA AAT TCA AGA CCT AAA AAG GAG AAG AAA ATT GAA CGC ATC AAG GAT AAA GTT GAG GTC CCC AGG TCT ACA CCT TGG ??? CTT CCT TTC AAA CTC ATT ??? 
+Coffea                          ATG GCG ATG ATA CAG TGG TGC GGC TCC GCA GCG AGG AGG ATG CTG AAG GCA ACC GAG CCG ATT CTG TGT GGC CGA GGG GAC AAG AGG ACG AAG AAA GGG AAG ATA TTC AAG GGA TCA TAT GGC AAC GCC AGA CCC AAG AGA GAG AAA AAA ATC GAA CGC ATC AAG GAT AGG GTT GAG GTC CCC AGG TCT ACC CCT TGG ??? CTT CCT TTC AAG CTC ATC ??? 
+Beta                            ATG GCG ATG ATG CGT ATT TGC AGC TCA TTT GCA AGA AGA ATG ATG TCA ACC CAT CAA GCA ATA GTT TGC GGA AGA GGG GAC AAG AGA ACC AAA AGA GGG AAG AGA TTT AAA GGG TCT TAT GGT AAT TCT AGA CCC AAG AAG AAA GAT ATG ATT CAG AGA ATT AAA GAC AAA GTT GAG GTT CCA AGT TCT ACT CCA TGG ??? CTA CCT TTC AAG CTC ATT ??? 
+Citrus                          ATG GTG ACG ATG CAG TGG TGC GGC GCA GTA GCA AGG CGG GTG CTG GCG TCA CCG CGA CCG ATC GTG TGC GGG CGA GGC GAC AAG AAG ACG AAG AAA GGG AAG AGA TTC AAA GGG TCG TAC GGA AAG GTA AGG CCT AAG AAA GAG AAG ATG ATA GAG CGT ATC AAG GAC AAA GTC GAG GTC CCC AGG TCC ACT CCC TGG ??? CTC CCT TTC AAG CTC ATT ??? 
+Prunus                          ATG GCG ATG ATG CAG TGG TGC GGC GCA GTA GCA AGG CGG GTG CTG ATG ACG GAG CAG CCG ATC GTG TGT GGA CGA GGG GAC AAG AAG ACG AAG AAA GGA AAG CGA TTC AAA GGG TCG TAC GGA AAC GCT CGA CCG AAG AAG GAG AAG AAG ATA GAG CGC ATC AAG GAC AAG GTT GAG GTG CCC AGG TCC ACT CCT TGG ??? CTT CCC TTC AAG CTC ATC ??? 
+Cucumis                         ATG GCG ATG GCG CAG TGG TGC GGC GCA GTA GCT AGG GGA GTT ATT GCG GCG GAG AGA CCC ATC CTT TGT GGA CGA GGT GAC AAG AAG ACG AAG AGA GGG AAA AGA TTC AAA GGC TCC TAC GGA AAC GCT AGG CCG AAG AAG GAG AAG AAG ATA GAG CGA ATC AAG GAT AAA ATC GAG GTT CCT CGT TCC ACT CCT TGG ??? CTT CCT TTC AAG CTC ATC ??? 
+Glycine                         GCG AGC GTG ATG CAG CGG TGC AGC GTG GCT GCG AGG TTG TTC ATG ACG GCG GAG AGG CCT CAA GTG TGT GGA CGC GGG GAC CAG AAG ACG AAG AAA GGG AAG AGG TTC AAG GGT TCG TAC GGT AAC GCT AGG CCG AAG AAA GAG AAG ATG ATA GAG CGC ATC AAG GAC AAG GTC GAA GTT CCC AGG TCC ACT CCT TGG ??? CTC CCT TTC AAG CTC ATC ??? 
+Populus                         GCG ACG GTG ATG CAG TGG TGC GGC GCA GTA GCG AGG AGG GGG ATG GTG GGT CAT AGA CCA AAC CTT TGT GGA AGA GGG GAC AAG AAA ACG AAG AGA GGG AAA AGA TTT AAA GGA ACG TAT GGT AAC GCG AGG CCA AAG AAG GAG AAG AAG ATT GAA AGA ATT AAA GAT AAA GTT GAG GTG CCC AGG TCC ACC CCT TGG ??? CTC CCT TTC AAG CTC ATT ??? 
+Vitis                           ATG GCG ATG ATG CAG TGG TGC GGC GCA GCG GCG AGG AGG ATG ATG ACG ACG ATG ACG CCG ATT CTG TGC GGA AGA GGG GAC AAG AAG ACG AAG AAG GGG AAG AGG TTC AAG GGG TCG TAC GGG AAC GCG AGG CCC AAG AAG GAG AAG AAG ATT GAG CGC ATC AAG GAC AAG GTT GAG CTT AAA AGA AAA AGC CCC TTT ??? --- --- --- --- --- --- ??? 
+Nelumbo                         --- ATG GCG ATG CAG TGG TGC AGC GCG ATA GCC AGG AGA ATG ATG ATG ACG GAG CGA CCA GTA CTG TGT GGT CGA GGG GAC AAG AAG ACG AAG AAA GGG AAG CGG TTC AAG GGA TCT TAC GGC AAC GCA AGA CCG AAG AAG GAG AAG AAG ATC GAG AGG ATC AAG GAC AAG GTC GAG GTC CCC AGA TCC ACT CCG TGG ??? CTC CCC TTC AAG CTT ATC ??? 
+Zea                             ACG CGG TTG GCT GCG GCC GCG GCC GCC ACG TTC ATG CGG CGC CTG GCC CCA GCG CGC GCG GTG ACG TGC GGG CGC GGG GAC AAG AAA ACC AAG CGC GGG AAG CGG TTC AAG GGC TCC TAC GGC AAC GCC CGA CCG AAG CGT GAG AAG AAG ATT GAG CGC ATC AAG GAC CGC GTC GAG GTG CCC CGT TCC ACT CCC TGG ??? CTC CCC TTC AAG CTT ATC ??? 
+Lmirabile                       ATG TCG ATG CTA CAA TGG TGT AGC CGA ACA ACG AGG AGT CTA GTA GCA TTT GAA AGA CCG ATT CTC TGC GGA AGA GGT GAT AAG AGG ACG AAG AAA GGA AAG CGG TTC AAG GGG TCA TTT GGC AAC GCG AGA CCT AAG AAG AAG CAT TAT ATA GAG AGA ATC AAG GAC AAG GTG GAA GTT CCG AGG TCC ACT CCC TGG ??? CTG CCG TTT AAA CTT ATT ??? 
+Lpyramidale                     ATG GCG ATG CTA CAA TGG TGT AGC AGA ACA ACC CGG AGT CTA ATA GCA TTT GAC AGA CCT GTT GTC TGC GGA AGA GGT GAT AAG AAA ACG AAG AAA GGA AAG CGG TTC AAG GGA TCA TTT GGC AAC GCG AGA CCT AAG AAG AAG CAT TAT ATA GAG AGA ATC AAA GAC AAG AAT ATG AAT CCG GTG GCC GTT TGT ATT ??? TTG CAA ATT TCT TTG TTG ??? 
+
+
+
+After deleting gaps. 195 sites
+     20    195
+
+Ombrophytum                     GCA ATG TTA CAG TTG TGT AGT GCA ACA TCC CGG AGA GTA CTA GCT TTG AGT AGA CCC ATT GTC TGC GGA AGA GGT GAT AAG AGG ACC AAG AAG GGG AAG CGG TTC AAG GGA TCA TTT GGA AAC GCA AGA CCT AAG AAG AAG CAT ATG ATA GAG AGG TTC AAG GAC AAG GTG GAG GTT CCC AGG TCC ACT CCC TGG 
+Dendropemon                     GCG CTA CTC CGG AAG TGC GGC GCA GCC GCC CGG AGG ACG ATG ATG ACG ATG CGC CCG ATG GAG TGC GGG CGG GGG GAC AAG AGG ACG AAG AAA GGG AAG CGG TTC AAT CGG TCG TAC GGA AAC TCG AGG GGG AAG AAG AAG AAG AAG ATC GAG CGG ATC AAG GAC AAG GTT GAG GTG CCC AGG TCT ACT CCT TGG 
+Daenikera                       GCG ATG GTG CAG TGG TGC GGT GCG GTG GCG AGG AGG GTG ATG AAG GCG GAG CGA CCG GTA CTG TGT GGA AGA GGA GAC AAG AGG ACG AAG AGA GGG AAG CGG TTC AGG AGA TCG TTC GGC AAA TCG AGG CCT CAG AAA GAT GTC GTT GTT CGC CGC TTC AAG GCC AAG GTT GAG GCC CCT AAG GGT ACT CCT TGG 
+Malania                         GCG ATG ATG CAG TGG TGC GGC GCA GTA GCC AGG AGG ATG ATG ATG ACG GAG CGA CCG ATC CTA TGC GGG CGA GGG GAT AAG AGG ACG AAG AAA GGG AAG CGG TTC AAG GGA ACG TAC GGC AAC GCG AGG CCC AAG AGG AAG CAG ATG ATC CAG CGG ATC AAG GAC AAG GTT GAG GTC CCC AGG TCC ACT CCT TGG 
+Balanophora                     CGT ATG TCG GAG AAT TTG AGT GTG GTT GGT GTG AAG GTG ATT AGG AAT GGA AGG CCT TCT CTA TGT GGG CGA GGA GAT AAA AGA ACT AAG CGG GGG AAA CGA TTC AAG GGA TCG TTT GGA AAT TGC AGA CCT AAG AAG GAC AAG TTC ATT GAA CGC ATC AAG GAC AAG ATC GAG GTC CCT AGA TCT ACT CCT TGG 
+Arabidopsis                     GCG GCG ATG CAG TGG TGC GGC GCG ATG ACA CGA CGG ATT ATG ATG ACG CAG CGA ATG GAT TTG TGT GGG AGA GGA GAT AAG AAG ACG AAG AAA GGG AAA AGA TTC AAA GGA TCG TAC GGG AAT TCG AGA GGG AAG AAA CAG AAG ATG ATT GAG AGA ATC AAA GAC AAG CTT GAG CTT CCC AGG TCT ACT CCT TGG 
+Anadenanthera                   GGC ATG ATG CAG TGG TTG GGT GCA GTA GCG AGG CGG GGG GCG GCG GCG GGA AGA CCG ATA TTG TGT GGG CGT GGG GAC AAG AAG ACA AAG AGA GGG AAG AGA TTC AAG GGA TCA TAC GGC AAC GCT AGG CCA AAG AGG GAG AAG ATG ATC GAG CGC ATT AAG GAC AAG GTC GAG GTT CCC AGG TCT ACT CCT TGG 
+Solanum                         GCG ATG ACA CAG TGG TGC AGC ACA GTA GCG AGG AGA CTG ATG ACT GTT ATG GAG CCG ATC CTT TGC GGA CGA GGG GAC AAG AGG ACG AAG AAA GGG AAG AGA TTC AAA GAT TCG TAT GGA AAT TCA AGA CCT AAA AAG GAG AAG AAA ATT GAA CGC ATC AAG GAT AAA GTT GAG GTC CCC AGG TCT ACA CCT TGG 
+Coffea                          GCG ATG ATA CAG TGG TGC GGC TCC GCA GCG AGG AGG ATG CTG AAG GCA ACC GAG CCG ATT CTG TGT GGC CGA GGG GAC AAG AGG ACG AAG AAA GGG AAG ATA TTC AAG GGA TCA TAT GGC AAC GCC AGA CCC AAG AGA GAG AAA AAA ATC GAA CGC ATC AAG GAT AGG GTT GAG GTC CCC AGG TCT ACC CCT TGG 
+Beta                            GCG ATG ATG CGT ATT TGC AGC TCA TTT GCA AGA AGA ATG ATG TCA ACC CAT CAA GCA ATA GTT TGC GGA AGA GGG GAC AAG AGA ACC AAA AGA GGG AAG AGA TTT AAA GGG TCT TAT GGT AAT TCT AGA CCC AAG AAG AAA GAT ATG ATT CAG AGA ATT AAA GAC AAA GTT GAG GTT CCA AGT TCT ACT CCA TGG 
+Citrus                          GTG ACG ATG CAG TGG TGC GGC GCA GTA GCA AGG CGG GTG CTG GCG TCA CCG CGA CCG ATC GTG TGC GGG CGA GGC GAC AAG AAG ACG AAG AAA GGG AAG AGA TTC AAA GGG TCG TAC GGA AAG GTA AGG CCT AAG AAA GAG AAG ATG ATA GAG CGT ATC AAG GAC AAA GTC GAG GTC CCC AGG TCC ACT CCC TGG 
+Prunus                          GCG ATG ATG CAG TGG TGC GGC GCA GTA GCA AGG CGG GTG CTG ATG ACG GAG CAG CCG ATC GTG TGT GGA CGA GGG GAC AAG AAG ACG AAG AAA GGA AAG CGA TTC AAA GGG TCG TAC GGA AAC GCT CGA CCG AAG AAG GAG AAG AAG ATA GAG CGC ATC AAG GAC AAG GTT GAG GTG CCC AGG TCC ACT CCT TGG 
+Cucumis                         GCG ATG GCG CAG TGG TGC GGC GCA GTA GCT AGG GGA GTT ATT GCG GCG GAG AGA CCC ATC CTT TGT GGA CGA GGT GAC AAG AAG ACG AAG AGA GGG AAA AGA TTC AAA GGC TCC TAC GGA AAC GCT AGG CCG AAG AAG GAG AAG AAG ATA GAG CGA ATC AAG GAT AAA ATC GAG GTT CCT CGT TCC ACT CCT TGG 
+Glycine                         AGC GTG ATG CAG CGG TGC AGC GTG GCT GCG AGG TTG TTC ATG ACG GCG GAG AGG CCT CAA GTG TGT GGA CGC GGG GAC CAG AAG ACG AAG AAA GGG AAG AGG TTC AAG GGT TCG TAC GGT AAC GCT AGG CCG AAG AAA GAG AAG ATG ATA GAG CGC ATC AAG GAC AAG GTC GAA GTT CCC AGG TCC ACT CCT TGG 
+Populus                         ACG GTG ATG CAG TGG TGC GGC GCA GTA GCG AGG AGG GGG ATG GTG GGT CAT AGA CCA AAC CTT TGT GGA AGA GGG GAC AAG AAA ACG AAG AGA GGG AAA AGA TTT AAA GGA ACG TAT GGT AAC GCG AGG CCA AAG AAG GAG AAG AAG ATT GAA AGA ATT AAA GAT AAA GTT GAG GTG CCC AGG TCC ACC CCT TGG 
+Vitis                           GCG ATG ATG CAG TGG TGC GGC GCA GCG GCG AGG AGG ATG ATG ACG ACG ATG ACG CCG ATT CTG TGC GGA AGA GGG GAC AAG AAG ACG AAG AAG GGG AAG AGG TTC AAG GGG TCG TAC GGG AAC GCG AGG CCC AAG AAG GAG AAG AAG ATT GAG CGC ATC AAG GAC AAG GTT GAG CTT AAA AGA AAA AGC CCC TTT 
+Nelumbo                         ATG GCG ATG CAG TGG TGC AGC GCG ATA GCC AGG AGA ATG ATG ATG ACG GAG CGA CCA GTA CTG TGT GGT CGA GGG GAC AAG AAG ACG AAG AAA GGG AAG CGG TTC AAG GGA TCT TAC GGC AAC GCA AGA CCG AAG AAG GAG AAG AAG ATC GAG AGG ATC AAG GAC AAG GTC GAG GTC CCC AGA TCC ACT CCG TGG 
+Zea                             CGG TTG GCT GCG GCC GCG GCC GCC ACG TTC ATG CGG CGC CTG GCC CCA GCG CGC GCG GTG ACG TGC GGG CGC GGG GAC AAG AAA ACC AAG CGC GGG AAG CGG TTC AAG GGC TCC TAC GGC AAC GCC CGA CCG AAG CGT GAG AAG AAG ATT GAG CGC ATC AAG GAC CGC GTC GAG GTG CCC CGT TCC ACT CCC TGG 
+Lmirabile                       TCG ATG CTA CAA TGG TGT AGC CGA ACA ACG AGG AGT CTA GTA GCA TTT GAA AGA CCG ATT CTC TGC GGA AGA GGT GAT AAG AGG ACG AAG AAA GGA AAG CGG TTC AAG GGG TCA TTT GGC AAC GCG AGA CCT AAG AAG AAG CAT TAT ATA GAG AGA ATC AAG GAC AAG GTG GAA GTT CCG AGG TCC ACT CCC TGG 
+Lpyramidale                     GCG ATG CTA CAA TGG TGT AGC AGA ACA ACC CGG AGT CTA ATA GCA TTT GAC AGA CCT GTT GTC TGC GGA AGA GGT GAT AAG AAA ACG AAG AAA GGA AAG CGG TTC AAG GGA TCA TTT GGC AAC GCG AGA CCT AAG AAG AAG CAT TAT ATA GAG AGA ATC AAA GAC AAG AAT ATG AAT CCG GTG GCC GTT TGT ATT 
+
+
+
+Printing out site pattern counts
+
+
+        20        195  P
+
+Ombrophytum                     AAC AAG AAG AAG AAG AAG AAG AAG AAG AAG AAG ACA ACC ACT AGA AGA AGA AGA AGG AGG AGG AGT AGT ATA ATG ATG ATT CAG CAT CCC CCC CCC CCT CGG CGG CTA GAC GAG GAG GAT GCA GCA GCA GCT GGA GGA GGA GGG GGT GTA GTC GTG GTT TCA TCC TCC TGC TGG TGT TTA TTC TTC TTG TTG TTT 
+Dendropemon                     ... ..A ... ... ... ... ... ... ... ... ..T G.C ..G ... ..G ..G C.C C.G ... ... C.. .TG G.C ..C .A. C.A ..G .G. A.G ... ..G ..T GGG ... ... A.G ... ... ... ..C ... ..G T.G ATG C.G ... ..G ... ..G ACG .AG ..T ..G ..G G.. ..T ... ... ..C C.C A.. ... AA. AC. .AC 
+Daenikera                       ..A .GA ..A ... ... ... ... ... C.. G.T .G. GTG ..G ... ..G ..G C.. ... .A. ... C.C GAG G.. G.T G.T ... G.A ... GTC ..T ..G ..T ... A.. ... A.G .C. CGC ... ..C ..G ..G T.G AAG A.. ..C ... ... ..A ..G C.G ..T .CC ..G G.G GGT ..T ... ..C G.G ... ... .G. GC. ..C 
+Malania                         ... ..A .G. ... ... ... ... ... ... ... ... GT. ..G ... ..G ..G C.. C.. ... ... C.. GAG G.C ..C ... ... ..C ... ..G ... ..G ..T ..C A.. ... A.G ... C.. ... ... ... ..G ..G ATG ... ..C ..G ... ..G A.G C.A ..T ..C A.G G.. ... ... ... ..C A.G A.. ... .G. AC. .AC 
+Balanophora                     ..T CG. ... ..A ..A ... ... ... ... G.C ... GTT ..T ... .AG ... ..G C.. ..A ..A C.C G.A ... ..T T.C ... TC. G.. A.G ..T ..T ..T ... GT. ..A A.T ... ..A ... ... .TG CGT TGC AGG ... ... ..G ... ..A ..G C.A A.C ..C ..G GGT ..T ..T ... .TG .CG A.. ... AAT AAT ... 
+Arabidopsis                     ..T ..A ..A ..A ... ..A ... ... ... C.. ..A .TG ..G ... C.G ... C.. ... ... .A. ..A CAG G.C ..T ... GC. GA. ... A.G ... ATG ..T GGG ..A A.A A.G ... ... ... ... ..G ..G T.G ATG ... ..G ..G ... ..A A.T T.G C.T C.. ..G A.A ..T ..T ... ..C A.G A.. ... .G. AC. .AC 
+Anadenanthera                   ... .GA .G. ... ... ... ... ... ... G.. ... GT. ..A ... C.G ..G ... C.T ... .A. C.C G.A G.. ..C ... ... ..A ... A.G ... ..G ..T ..A A.. A.A GCG ... ... ... ..C ... .GC ..T ..G ... ..C ..G ... ..G .GG T.G ..C ... ... G.G ..T ..T ... .TG A.G A.T ... .G. GC. .AC 
+Solanum                         ..T ..A ... ... ... ... ..A ... ..A G.. ..A GT. ..G ..A ... ... GAG C.. ... ... C.C .TG ..C ..T .AA ... ..C ... A.G ... ..G ..T ... A.. A.A A.G ..T ..A ... ..C A.. ..G T.. A.. .AT ... ... ... ..G C.G C.T ..T ..C ..G G.G ..T ... ... ..C AC. A.. ... .G. G.T .A. 
+Coffea                          ... ..A .GA ... ... ... .G. ... ... G.. ... G.. ..G ..C ..G ... GAG C.. ... ... C.C .CC G.C ..C .AA ... ... ... A.A ... ..G ..T ..C A.. ATA ..G ..T ..A ... ..C T.C ..G ..C AAG ... ..C ..C ... ..G A.G C.G ..T ..C ... G.G ..T ..T ... ..C A.. A.. ... .G. GCA .A. 
+Beta                            ..T .GA ... ... ... ..A ..A ..A ... ..A ..A TTT ... ... ... ... CA. ... ..T ..A ..A CA. ..C ..T ... ... ..A .GT G.. ..A G.A ..A ..C A.A A.A A.G ... C.. ... ..C T.. ..G T.T T.A ..G ..T ... ... ..G A.G ..T ..T ... ..T G.A ..T ... ... ..C A.G A.T ..T A.T ACC .A. 
+Citrus                          ..G ..A ..A ... ... ... ..A ... ... G.. ..A GT. ..G ... C.G ..G C.. C.. ... .A. C.T CCG G.C ... ... .C. ..C ... A.G ... ..G ... ... A.. A.A ..G ... ... ... ..C ... .TG .T. ..G ..G ... ..G ... ..C ..G ..G ..C ..C ..G G.A ... ... ... ..C A.G A.. ... .G. .CA .AC 
+Prunus                          ... ..A ... ... ... ... ... ... ... G.. ..A GT. ..G ... C.G C.. CAG C.. ... .A. C.C GAG G.C ... .A. ... ..C ... A.G ... ..G ..T ..G A.. ..A ..G ... ... ... ..C ... ..G ..T ATG ..G ... ... ..A ..G ..G ..G ..T ..G ..G G.A ... ..T ... ..C A.G A.. ... .G. AC. .AC 
+Cucumis                         ... .GA ... ..A ... ... ..A ... ... G.. ..A GT. ..G ... G.. ..G ... C.. C.T .A. C.A GAG G.C ... .A. ... ..C ... A.G ..T ... ..T ..G A.. A.A A.T ..T ... ... ..C ... ..G ..T ..G ..C ... ... ... ... ..T C.T A.C ... ..C G.T ... ..T ... ..C GCG A.. ... .G. GC. .AC 
+Glycine                         ... ..A ..A ... C.. ... ... ... ... G.. ... G.T ..G ... TTG ..G ..G C.C ... .A. C.C GAG ..C ... ... G.. CAA ... A.G ... ..T ..T ..G A.. A.. A.G ... ... ..A ..C .TG AGC ..T A.G ..T ..T ... ... ..G T.C ..G ..C ... ..G G.G ... ..T ... ..C A.G A.. ... CG. GC. .AC 
+Populus                         ... .GA ... ..A ... ..A ..A ... ... G.. ..A GT. ..G ..C ..G ..G ... ... ... .AA ..A CA. G.C ..T .A. G.. .AC ... A.G ... ..A ..T ..A A.. A.A A.G ..T ..A ... ..C ... A.G ..G .TG ... ..T ... ... ..G .GG C.T ..T ..G A.G G.G ... ..T ... ..C A.G A.T ..T .G. GGT .A. 
+Vitis                           ... ... ... ... ... ... ... ... ... G.. ... G.G ..G .GC ..G ..G .CG ... ..A .A. C.C .TG G.C ..T .A. ... ... ... A.G AAA ..G ... ..C A.. A.. A.G ... ... ... ..C ... ..G ..G A.G ..G ..G ... ... ..G A.G C.G ..T C.. ..G G.G AAA ... .TT ..C A.G A.. ... .G. AC. .AC 
+Nelumbo                         ... ..A ... ... ... ... ... ... ... G.. ... .T. ..G ... ... ... C.. C.. ..A .A. ... GAG ..C ..C .A. GC. G.A ... A.G ... ..A ..G ..G A.. ... A.G ... ... ... ..C ..G ATG ... ATG ... ..C ..T ... ..G A.G C.G ..C ..C ..T G.. ... ..T ... ..C A.G A.. ... .G. AC. .AC 
+Zea                             ... CGC CGT ... ... ... CGC ... ... G.. ... ..G ... ... C.G C.. C.C C.C C.T .AA C.C GCG GCC ..T .A. T.. G.G GC. A.G ... G.G ... ..G AT. ... ..G ... ... ... ..C ..C CGG ..C ..C ..C ..C ..G ... ..G CGC ACG ..C ..G ..C .T. ... ... ... GCG GCT A.. ... GCC CCA .AC 
+Lmirabile                       ... ..A ... ... ... ... ... ... ... ... ... ... ..G ... ..T ... ... ... ... ... ..A GAA ..C ... TAT ... ... ..A ... ..G ..G ... ... A.. ... G.. ... ... ..A ... CG. T.G ..G ..A ..G ..C ... ..A ... C.. C.. ... ... ... A.G ... ... ... ... C.. A.. ... .G. ..T ... 
+Lpyramidale                     ... ..A ... ... ... ..A ... ... ... ... ... ... ..G GT. ..T ... ... ... GT. .AA ..A GAC ..C ... TAT ... G.. ..A ... ..G ..T TGT ... ... ... A.. ... ... AT. ... AG. ..G ..G ..A ... ..C ... ..A ... C.. ... AAT AA. ... A.. G.. ... ATT ... C.. A.. ... .G. ..T ... 
+
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1
+
+CODONML (in paml version 4.9j, February 2020)  AT2G21290_HOM04D007227.aligned.fa_subset.fasta
+Model: free dN/dS Ratios for branches,  kappa = 2.000 fixed
+
+Codon frequency model: F3x4
+ns =  20  ls =  65
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   1   0   0   0   1   0 | Ser TCT   0   1   0   0   2   1 | Tyr TAT   0   0   0   0   0   0 | Cys TGT   1   0   1   0   1   1
+    TTC   2   1   3   1   2   1 |     TCC   2   0   0   1   0   0 |     TAC   0   1   0   1   0   1 |     TGC   1   2   1   2   1   1
+Leu TTA   1   0   0   0   0   0 |     TCA   1   0   0   0   0   0 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   2   0   0   0   1   1 |     TCG   0   2   2   0   2   2 |     TAG   0   0   0   0   0   0 | Trp TGG   1   1   2   2   1   2
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   0   0   0   0   0   2 | Pro CCT   1   1   3   1   4   1 | His CAT   1   0   0   0   0   0 | Arg CGT   0   0   0   0   1   0
+    CTC   0   1   0   0   0   0 |     CCC   3   1   0   2   0   1 |     CAC   0   0   0   0   0   0 |     CGC   0   1   2   0   1   0
+    CTA   1   1   0   1   1   0 |     CCA   0   0   0   0   0   0 | Gln CAA   0   0   0   0   0   0 |     CGA   0   0   1   2   2   2
+    CTG   0   0   1   0   0   0 |     CCG   0   1   1   1   0   0 |     CAG   1   0   2   3   0   3 |     CGG   2   6   1   2   1   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   1   0   0   0   2   2 | Thr ACT   1   1   1   1   2   1 | Asn AAT   0   1   0   0   3   1 | Ser AGT   2   0   0   0   1   0
+    ATC   0   2   0   3   2   1 |     ACC   1   0   0   0   0   0 |     AAC   1   1   0   1   0   0 |     AGC   0   0   0   0   0   0
+    ATA   1   0   0   0   0   0 |     ACA   1   0   0   0   0   1 | Lys AAA   0   1   2   1   2   5 | Arg AGA   4   0   3   0   3   4
+Met ATG   2   4   2   6   1   6 |     ACG   0   3   1   3   0   2 |     AAG  10  11   7   8   8   6 |     AGG   3   4   5   6   2   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   1   1   3   1   1   0 | Ala GCT   1   0   0   0   0   0 | Asp GAT   1   0   1   1   1   2 | Gly GGT   1   0   2   0   1   0
+    GTC   1   0   1   1   1   0 |     GCC   0   2   2   1   0   0 |     GAC   1   2   1   1   2   1 |     GGC   0   1   1   2   0   1
+    GTA   1   0   1   1   0   0 |     GCA   3   1   0   1   0   0 | Glu GAA   0   0   0   0   1   0 |     GGA   3   1   2   1   4   2
+    GTG   1   1   3   0   3   0 |     GCG   0   1   4   2   0   3 |     GAG   2   3   2   2   2   2 |     GGG   1   4   1   3   2   4
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   0   0   0   2   0   0 | Ser TCT   1   1   1   3   0   0 | Tyr TAT   0   1   1   1   0   0 | Cys TGT   1   0   1   0   0   1
+    TTC   1   1   1   0   1   1 |     TCC   0   0   1   0   1   1 |     TAC   1   0   0   0   1   1 |     TGC   0   2   1   2   2   1
+Leu TTA   0   0   0   0   0   0 |     TCA   1   1   1   2   1   0 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   2   0   0   0   0   0 |     TCG   0   1   0   0   1   1 |     TAG   0   0   0   0   0   0 | Trp TGG   2   2   2   1   2   2
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   0   1   0   0   0   0 | Pro CCT   1   2   1   0   1   1 | His CAT   0   0   0   1   0   0 | Arg CGT   1   0   0   1   1   0
+    CTC   0   0   0   0   0   0 |     CCC   1   1   2   1   2   1 |     CAC   0   0   0   0   0   0 |     CGC   1   1   1   0   0   1
+    CTA   0   0   0   0   0   0 |     CCA   1   0   0   2   0   0 | Gln CAA   0   0   0   1   0   0 |     CGA   0   1   1   0   2   3
+    CTG   0   1   2   0   1   1 |     CCG   1   1   1   0   2   2 |     CAG   1   1   1   1   1   2 |     CGG   1   0   0   0   1   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   1   1   1   3   0   0 | Thr ACT   1   1   0   1   1   1 | Asn AAT   0   1   0   1   0   0 | Ser AGT   0   0   0   1   0   0
+    ATC   1   2   2   0   2   2 |     ACC   0   0   2   2   0   0 |     AAC   1   0   1   0   0   1 |     AGC   0   1   0   1   0   0
+    ATA   1   0   2   1   1   1 |     ACA   1   3   0   0   0   0 | Lys AAA   0   5   3   5   4   2 | Arg AGA   3   3   2   8   1   0
+Met ATG   3   3   2   5   2   3 |     ACG   0   1   1   0   2   2 |     AAG   9   6   7   4   8  10 |     AGG   4   3   5   0   3   2
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   1   2   1   3   0   1 | Ala GCT   1   0   0   0   0   1 | Asp GAT   0   2   1   1   0   0 | Gly GGT   1   0   0   1   0   0
+    GTC   1   1   1   0   2   0 |     GCC   0   0   1   0   0   0 |     GAC   2   1   1   2   2   2 |     GGC   2   0   3   0   2   1
+    GTA   1   1   0   0   2   1 |     GCA   1   0   2   2   2   2 | Glu GAA   0   1   1   0   0   0 |     GGA   2   2   1   1   1   3
+    GTG   0   0   0   0   3   3 |     GCG   4   2   2   1   1   1 |     GAG   3   3   3   1   3   4 |     GGG   4   2   2   3   3   2
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   0   0   1   1   0   0 | Ser TCT   0   0   0   0   1   0 | Tyr TAT   0   0   1   0   0   0 | Cys TGT   1   1   1   0   1   0
+    TTC   1   2   0   1   1   2 |     TCC   2   1   1   0   1   2 |     TAC   1   1   0   1   1   1 |     TGC   1   1   1   2   1   1
+Leu TTA   0   0   0   0   0   0 |     TCA   0   0   0   0   0   0 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   0   1   0   0   0   1 |     TCG   0   1   0   1   0   0 |     TAG   0   0   0   0   0   0 | Trp TGG   2   1   2   1   2   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   1   0   1   1   0   0 | Pro CCT   2   2   1   0   0   0 | His CAT   0   0   1   0   0   0 | Arg CGT   1   0   0   0   0   2
+    CTC   0   0   0   0   0   0 |     CCC   1   1   1   2   1   2 |     CAC   0   0   0   0   0   0 |     CGC   0   2   0   1   0   6
+    CTA   0   0   0   0   0   0 |     CCA   0   0   2   0   1   1 | Gln CAA   0   1   0   0   0   0 |     CGA   2   0   0   0   2   1
+    CTG   0   0   0   1   1   1 |     CCG   1   1   0   1   2   1 |     CAG   1   2   1   1   1   0 |     CGG   0   1   0   0   1   3
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   1   0   2   2   0   1 | Thr ACT   1   1   0   0   1   1 | Asn AAT   0   0   0   0   0   0 | Ser AGT   0   0   0   0   0   0
+    ATC   3   1   0   1   2   1 |     ACC   0   0   1   0   0   1 |     AAC   1   1   2   1   1   1 |     AGC   0   2   0   1   1   0
+    ATA   1   1   0   0   1   0 |     ACA   0   0   0   0   0   0 | Lys AAA   3   2   5   2   1   1 | Arg AGA   3   0   5   2   3   0
+Met ATG   1   3   2   5   5   1 |     ACG   1   2   3   4   2   2 |     AAG   8   8   6  12  11   8 |     AGG   2   5   4   4   2   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   2   1   1   1   0   0 | Ala GCT   2   2   0   0   0   1 | Asp GAT   1   0   1   0   0   0 | Gly GGT   1   2   2   0   1   0
+    GTC   0   1   0   0   2   1 |     GCC   0   0   0   0   1   5 |     GAC   1   2   1   2   2   2 |     GGC   2   0   1   1   1   2
+    GTA   1   0   1   0   1   0 |     GCA   1   0   1   1   1   0 | Glu GAA   0   1   1   0   0   0 |     GGA   3   1   2   1   1   0
+    GTG   0   3   3   0   0   2 |     GCG   4   2   2   4   2   4 |     GAG   4   3   2   3   4   3 |     GGG   1   2   3   4   2   3
+--------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------
+Phe TTT   2   2 | Ser TCT   0   0 | Tyr TAT   1   1 | Cys TGT   1   2
+    TTC   1   1 |     TCC   1   0 |     TAC   0   0 |     TGC   1   1
+Leu TTA   0   0 |     TCA   1   1 | *** TAA   0   0 | *** TGA   0   0
+    TTG   0   0 |     TCG   1   0 |     TAG   0   0 | Trp TGG   2   1
+----------------------------------------------------------------------
+Leu CTT   0   0 | Pro CCT   1   2 | His CAT   1   1 | Arg CGT   0   0
+    CTC   1   0 |     CCC   1   0 |     CAC   0   0 |     CGC   0   0
+    CTA   2   2 |     CCA   0   0 | Gln CAA   1   1 |     CGA   1   0
+    CTG   0   0 |     CCG   2   1 |     CAG   0   0 |     CGG   1   2
+----------------------------------------------------------------------
+Ile ATT   1   1 | Thr ACT   1   0 | Asn AAT   0   2 | Ser AGT   1   1
+    ATC   1   1 |     ACC   0   1 |     AAC   1   1 |     AGC   1   1
+    ATA   1   2 |     ACA   1   1 | Lys AAA   1   3 | Arg AGA   4   5
+Met ATG   1   2 |     ACG   2   1 |     AAG   9   8 |     AGG   3   0
+----------------------------------------------------------------------
+Val GTT   1   2 | Ala GCT   0   0 | Asp GAT   1   1 | Gly GGT   1   1
+    GTC   0   1 |     GCC   0   1 |     GAC   1   2 |     GGC   1   1
+    GTA   1   0 |     GCA   1   1 | Glu GAA   2   0 |     GGA   2   3
+    GTG   1   1 |     GCG   1   2 |     GAG   1   1 |     GGG   1   0
+----------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: Ombrophytum    
+position  1:    T:0.18462    C:0.13846    A:0.41538    G:0.26154
+position  2:    T:0.23077    C:0.21538    A:0.26154    G:0.29231
+position  3:    T:0.18462    C:0.18462    A:0.24615    G:0.38462
+Average         T:0.20000    C:0.17949    A:0.30769    G:0.31282
+
+#2: Dendropemon    
+position  1:    T:0.12308    C:0.18462    A:0.43077    G:0.26154
+position  2:    T:0.16923    C:0.21538    A:0.30769    G:0.30769
+position  3:    T:0.07692    C:0.23077    A:0.06154    G:0.63077
+Average         T:0.12308    C:0.21026    A:0.26667    G:0.40000
+
+#3: Daenikera      
+position  1:    T:0.13846    C:0.16923    A:0.32308    G:0.36923
+position  2:    T:0.21538    C:0.21538    A:0.23077    G:0.33846
+position  3:    T:0.16923    C:0.16923    A:0.13846    G:0.52308
+Average         T:0.17436    C:0.18462    A:0.23077    G:0.41026
+
+#4: Malania        
+position  1:    T:0.10769    C:0.18462    A:0.44615    G:0.26154
+position  2:    T:0.21538    C:0.20000    A:0.27692    G:0.30769
+position  3:    T:0.06154    C:0.24615    A:0.10769    G:0.58462
+Average         T:0.12821    C:0.21026    A:0.27692    G:0.38462
+
+#5: Balanophora    
+position  1:    T:0.16923    C:0.15385    A:0.40000    G:0.27692
+position  2:    T:0.23077    C:0.15385    A:0.29231    G:0.32308
+position  3:    T:0.30769    C:0.13846    A:0.20000    G:0.35385
+Average         T:0.23590    C:0.14872    A:0.29744    G:0.31795
+
+#6: Arabidopsis    
+position  1:    T:0.15385    C:0.15385    A:0.46154    G:0.23077
+position  2:    T:0.20000    C:0.18462    A:0.32308    G:0.29231
+position  3:    T:0.16923    C:0.10769    A:0.21538    G:0.50769
+Average         T:0.17436    C:0.14872    A:0.33333    G:0.34359
+
+#7: Anadenanthera  
+position  1:    T:0.13846    C:0.12308    A:0.38462    G:0.35385
+position  2:    T:0.18462    C:0.21538    A:0.26154    G:0.33846
+position  3:    T:0.13846    C:0.16923    A:0.16923    G:0.52308
+Average         T:0.15385    C:0.16923    A:0.27179    G:0.40513
+
+#8: Solanum        
+position  1:    T:0.13846    C:0.13846    A:0.46154    G:0.26154
+position  2:    T:0.20000    C:0.21538    A:0.32308    G:0.26154
+position  3:    T:0.18462    C:0.15385    A:0.26154    G:0.40000
+Average         T:0.17436    C:0.16923    A:0.34872    G:0.30769
+
+#9: Coffea         
+position  1:    T:0.13846    C:0.13846    A:0.43077    G:0.29231
+position  2:    T:0.18462    C:0.23077    A:0.29231    G:0.29231
+position  3:    T:0.10769    C:0.26154    A:0.20000    G:0.43077
+Average         T:0.14359    C:0.21026    A:0.30769    G:0.33846
+
+#10: Beta           
+position  1:    T:0.16923    C:0.10769    A:0.49231    G:0.23077
+position  2:    T:0.21538    C:0.21538    A:0.27692    G:0.29231
+position  3:    T:0.29231    C:0.12308    A:0.33846    G:0.24615
+Average         T:0.22564    C:0.14872    A:0.36923    G:0.25641
+
+#11: Citrus         
+position  1:    T:0.13846    C:0.16923    A:0.36923    G:0.32308
+position  2:    T:0.21538    C:0.21538    A:0.29231    G:0.27692
+position  3:    T:0.04615    C:0.23077    A:0.21538    G:0.50769
+Average         T:0.13333    C:0.20513    A:0.29231    G:0.36923
+
+#12: Prunus         
+position  1:    T:0.12308    C:0.18462    A:0.36923    G:0.32308
+position  2:    T:0.20000    C:0.20000    A:0.33846    G:0.26154
+position  3:    T:0.07692    C:0.18462    A:0.18462    G:0.55385
+Average         T:0.13333    C:0.18974    A:0.29744    G:0.37949
+
+#13: Cucumis        
+position  1:    T:0.12308    C:0.13846    A:0.38462    G:0.35385
+position  2:    T:0.16923    C:0.23077    A:0.30769    G:0.29231
+position  3:    T:0.20000    C:0.20000    A:0.21538    G:0.38462
+Average         T:0.16410    C:0.18974    A:0.30256    G:0.34359
+
+#14: Glycine        
+position  1:    T:0.13846    C:0.15385    A:0.40000    G:0.30769
+position  2:    T:0.20000    C:0.20000    A:0.32308    G:0.27692
+position  3:    T:0.13846    C:0.23077    A:0.09231    G:0.53846
+Average         T:0.15897    C:0.19487    A:0.27179    G:0.37436
+
+#15: Populus        
+position  1:    T:0.10769    C:0.10769    A:0.46154    G:0.32308
+position  2:    T:0.16923    C:0.18462    A:0.32308    G:0.32308
+position  3:    T:0.18462    C:0.12308    A:0.26154    G:0.43077
+Average         T:0.15385    C:0.13846    A:0.34872    G:0.35897
+
+#16: Vitis          
+position  1:    T:0.10769    C:0.10769    A:0.52308    G:0.26154
+position  2:    T:0.20000    C:0.20000    A:0.33846    G:0.26154
+position  3:    T:0.07692    C:0.20000    A:0.09231    G:0.63077
+Average         T:0.12821    C:0.16923    A:0.31795    G:0.38462
+
+#17: Nelumbo        
+position  1:    T:0.12308    C:0.13846    A:0.46154    G:0.27692
+position  2:    T:0.20000    C:0.20000    A:0.32308    G:0.27692
+position  3:    T:0.06154    C:0.23077    A:0.16923    G:0.53846
+Average         T:0.12821    C:0.18974    A:0.31795    G:0.36410
+
+#18: Zea            
+position  1:    T:0.12308    C:0.26154    A:0.26154    G:0.35385
+position  2:    T:0.15385    C:0.30769    A:0.24615    G:0.29231
+position  3:    T:0.07692    C:0.41538    A:0.04615    G:0.46154
+Average         T:0.11795    C:0.32821    A:0.18462    G:0.36923
+
+#19: Lmirabile      
+position  1:    T:0.16923    C:0.16923    A:0.43077    G:0.23077
+position  2:    T:0.20000    C:0.20000    A:0.29231    G:0.30769
+position  3:    T:0.18462    C:0.15385    A:0.27692    G:0.38462
+Average         T:0.18462    C:0.17436    A:0.33333    G:0.30769
+
+#20: Lpyramidale    
+position  1:    T:0.13846    C:0.13846    A:0.46154    G:0.26154
+position  2:    T:0.23077    C:0.16923    A:0.32308    G:0.27692
+position  3:    T:0.24615    C:0.16923    A:0.29231    G:0.29231
+Average         T:0.20513    C:0.15897    A:0.35897    G:0.27692
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      10 | Ser S TCT      11 | Tyr Y TAT       6 | Cys C TGT      14
+      TTC      24 |       TCC      14 |       TAC      11 |       TGC      25
+Leu L TTA       1 |       TCA       9 | *** * TAA       0 | *** * TGA       0
+      TTG       8 |       TCG      14 |       TAG       0 | Trp W TGG      32
+------------------------------------------------------------------------------
+Leu L CTT       6 | Pro P CCT      25 | His H CAT       5 | Arg R CGT       7
+      CTC       2 |       CCC      24 |       CAC       0 |       CGC      17
+      CTA       8 |       CCA       7 | Gln Q CAA       4 |       CGA      20
+      CTG       9 |       CCG      19 |       CAG      22 |       CGG      24
+------------------------------------------------------------------------------
+Ile I ATT      19 | Thr T ACT      17 | Asn N AAT       9 | Ser S AGT       6
+      ATC      27 |       ACC       8 |       AAC      15 |       AGC       8
+      ATA      13 |       ACA       8 | Lys K AAA      48 | Arg R AGA      53
+Met M ATG      59 |       ACG      32 |       AAG     164 |       AGG      58
+------------------------------------------------------------------------------
+Val V GTT      23 | Ala A GCT       8 | Asp D GAT      14 | Gly G GGT      14
+      GTC      14 |       GCC      13 |       GAC      31 |       GGC      22
+      GTA      12 |       GCA      20 | Glu E GAA       7 |       GGA      36
+      GTG      24 |       GCG      42 |       GAG      51 |       GGG      47
+------------------------------------------------------------------------------
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.13769    C:0.15308    A:0.41846    G:0.29077
+position  2:    T:0.19923    C:0.20846    A:0.29769    G:0.29462
+position  3:    T:0.14923    C:0.19615    A:0.18923    G:0.46538
+Average         T:0.16205    C:0.18590    A:0.30179    G:0.35026
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.00424010  0.00557333  0.00537662  0.01322300
+  0.00443655  0.00583155  0.00562573  0.01383565
+  0.00633560  0.00832772  0.00000000  0.00000000
+  0.00627011  0.00824164  0.00000000  0.01955370
+  0.00471386  0.00619605  0.00597736  0.01470043
+  0.00493226  0.00648312  0.00625431  0.01538153
+  0.00704348  0.00925819  0.00893143  0.02196550
+  0.00697068  0.00916250  0.00883911  0.02173847
+  0.01288612  0.01693794  0.01634013  0.04018609
+  0.01348316  0.01772271  0.01709720  0.04204800
+  0.01925455  0.02530881  0.02441556  0.06004640
+  0.01905553  0.02504722  0.02416320  0.05942576
+  0.00895396  0.01176938  0.01135399  0.02792342
+  0.00936881  0.01231468  0.01188004  0.02921717
+  0.01337908  0.01758590  0.01696522  0.04172342
+  0.01324079  0.01740414  0.01678987  0.04129217
+
+
+TREE #  1:  ((((((8, 9), 10), (4, ((2, 3), ((1, (19, 20)), 5)))), (((6, 11), (((12, 13), (14, 7)), 15)), 16)), 17), 18);   MP score: 483
+This is a rooted tree.  Please check!
+check convergence..
+lnL(ntime: 38  np: 76):  -2596.574988      +0.000000
+  21..22   22..23   23..24   24..25   25..26   26..8    26..9    25..10   24..27   27..4    27..28   28..29   29..2    29..3    28..30   30..31   31..1    31..32   32..19   32..20   30..5    23..33   33..34   34..35   35..6    35..11   34..36   36..37   37..38   38..12   38..13   37..39   39..14   39..7    36..15   33..16   22..17   21..18 
+ 0.503293 0.063551 0.020073 0.344675 0.087504 0.526924 0.388303 50.000000 0.014639 0.226496 0.061286 0.006366 0.701132 0.792099 0.521932 50.000000 0.441210 0.173458 0.135079 0.493309 1.272189 0.109350 0.127273 0.039776 0.770291 0.422893 0.021458 0.041842 0.000004 0.201210 0.587924 0.265286 0.518324 0.459020 0.945498 0.813445 0.391122 3.474366 635.650461 606.988583 999.000000 0.048755 0.574528 0.074286 0.138771 0.001589 999.000000 0.163773 0.174758 999.000000 0.201725 0.342167 0.030612 0.000893 0.111120 999.000000 0.020356 4.301838 0.220013 0.000100 0.036110 999.000000 0.148307 0.129677 16.174924 0.000100 0.000100 0.180927 0.061794 0.035870 0.182929 0.111786 0.057985 0.078398 0.043046 0.000100
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length = 115.962598
+
+((((((8: 0.526924, 9: 0.388303): 0.087504, 10: 50.000000): 0.344675, (4: 0.226496, ((2: 0.701132, 3: 0.792099): 0.006366, ((1: 0.441210, (19: 0.135079, 20: 0.493309): 0.173458): 50.000000, 5: 1.272189): 0.521932): 0.061286): 0.014639): 0.020073, (((6: 0.770291, 11: 0.422893): 0.039776, (((12: 0.201210, 13: 0.587924): 0.000004, (14: 0.518324, 7: 0.459020): 0.265286): 0.041842, 15: 0.945498): 0.021458): 0.127273, 16: 0.813445): 0.109350): 0.063551, 17: 0.391122): 0.503293, 18: 3.474366);
+
+((((((Solanum: 0.526924, Coffea: 0.388303): 0.087504, Beta: 50.000000): 0.344675, (Malania: 0.226496, ((Dendropemon: 0.701132, Daenikera: 0.792099): 0.006366, ((Ombrophytum: 0.441210, (Lmirabile: 0.135079, Lpyramidale: 0.493309): 0.173458): 50.000000, Balanophora: 1.272189): 0.521932): 0.061286): 0.014639): 0.020073, (((Arabidopsis: 0.770291, Citrus: 0.422893): 0.039776, (((Prunus: 0.201210, Cucumis: 0.587924): 0.000004, (Glycine: 0.518324, Anadenanthera: 0.459020): 0.265286): 0.041842, Populus: 0.945498): 0.021458): 0.127273, Vitis: 0.813445): 0.109350): 0.063551, Nelumbo: 0.391122): 0.503293, Zea: 3.474366);
+
+Detailed output identifying parameters
+
+w (dN/dS) for branches:  635.65046 606.98858 999.00000 0.04876 0.57453 0.07429 0.13877 0.00159 999.00000 0.16377 0.17476 999.00000 0.20172 0.34217 0.03061 0.00089 0.11112 999.00000 0.02036 4.30184 0.22001 0.00010 0.03611 999.00000 0.14831 0.12968 16.17492 0.00010 0.00010 0.18093 0.06179 0.03587 0.18293 0.11179 0.05798 0.07840 0.04305 0.00010
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+  21..22     0.503   153.6    41.4 635.6505  0.2129  0.0003  32.7   0.0
+  22..23     0.064   153.6    41.4 606.9886  0.0269  0.0000   4.1   0.0
+  23..24     0.020   153.6    41.4 999.0000  0.0085  0.0000   1.3   0.0
+  24..25     0.345   153.6    41.4  0.0488  0.0223  0.4579   3.4  19.0
+  25..26     0.088   153.6    41.4  0.5745  0.0252  0.0439   3.9   1.8
+  26..8      0.527   153.6    41.4  0.0743  0.0481  0.6481   7.4  26.9
+  26..9      0.388   153.6    41.4  0.1388  0.0558  0.4022   8.6  16.7
+  25..10    50.000   153.6    41.4  0.0016  0.1239 77.9664  19.0 3231.0
+  24..27     0.015   153.6    41.4 999.0000  0.0062  0.0000   1.0   0.0
+  27..4      0.226   153.6    41.4  0.1638  0.0362  0.2211   5.6   9.2
+  27..28     0.061   153.6    41.4  0.1748  0.0102  0.0583   1.6   2.4
+  28..29     0.006   153.6    41.4 999.0000  0.0027  0.0000   0.4   0.0
+  29..2      0.701   153.6    41.4  0.2017  0.1269  0.6293  19.5  26.1
+  29..3      0.792   153.6    41.4  0.3422  0.1874  0.5478  28.8  22.7
+  28..30     0.522   153.6    41.4  0.0306  0.0225  0.7353   3.5  30.5
+  30..31    50.000   153.6    41.4  0.0009  0.0698 78.1668  10.7 3239.3
+  31..1      0.441   153.6    41.4  0.1111  0.0545  0.4902   8.4  20.3
+  31..32     0.173   153.6    41.4 999.0000  0.0734  0.0001  11.3   0.0
+  32..19     0.135   153.6    41.4  0.0204  0.0040  0.1970   0.6   8.2
+  32..20     0.493   153.6    41.4  4.3018  0.1965  0.0457  30.2   1.9
+  30..5      1.272   153.6    41.4  0.2200  0.2419  1.0993  37.1  45.6
+  23..33     0.109   153.6    41.4  0.0001  0.0000  0.1715   0.0   7.1
+  33..34     0.127   153.6    41.4  0.0361  0.0064  0.1761   1.0   7.3
+  34..35     0.040   153.6    41.4 999.0000  0.0168  0.0000   2.6   0.0
+  35..6      0.770   153.6    41.4  0.1483  0.1156  0.7797  17.8  32.3
+  35..11     0.423   153.6    41.4  0.1297  0.0581  0.4480   8.9  18.6
+  34..36     0.021   153.6    41.4 16.1749  0.0089  0.0006   1.4   0.0
+  36..37     0.042   153.6    41.4  0.0001  0.0000  0.0656   0.0   2.7
+  37..38     0.000   153.6    41.4  0.0001  0.0000  0.0000   0.0   0.0
+  38..12     0.201   153.6    41.4  0.1809  0.0342  0.1889   5.2   7.8
+  38..13     0.588   153.6    41.4  0.0618  0.0464  0.7504   7.1  31.1
+  37..39     0.265   153.6    41.4  0.0359  0.0132  0.3673   2.0  15.2
+  39..14     0.518   153.6    41.4  0.1829  0.0886  0.4845  13.6  20.1
+  39..7      0.459   153.6    41.4  0.1118  0.0569  0.5091   8.7  21.1
+  36..15     0.945   153.6    41.4  0.0580  0.0708  1.2207  10.9  50.6
+  33..16     0.813   153.6    41.4  0.0784  0.0775  0.9887  11.9  41.0
+  22..17     0.391   153.6    41.4  0.0430  0.0228  0.5291   3.5  21.9
+  21..18     3.474   153.6    41.4  0.0001  0.0005  5.4476   0.1 225.8
+
+tree length for dN:       2.1728
+tree length for dS:     173.8375
+
+dS tree:
+((((((Solanum: 0.648089, Coffea: 0.402225): 0.043865, Beta: 77.966445): 0.457901, (Malania: 0.221089, ((Dendropemon: 0.629319, Daenikera: 0.547824): 0.000003, ((Ombrophytum: 0.490199, (Lmirabile: 0.197012, Lpyramidale: 0.045675): 0.000073): 78.166799, Balanophora: 1.099256): 0.735253): 0.058345): 0.000006): 0.000009, (((Arabidopsis: 0.779713, Citrus: 0.448026): 0.000017, (((Prunus: 0.188933, Cucumis: 0.750351): 0.000006, (Glycine: 0.484546, Anadenanthera: 0.509097): 0.367285): 0.065605, Populus: 1.220732): 0.000552): 0.176071, Vitis: 0.988680): 0.171453): 0.000044, Nelumbo: 0.529086): 0.000335, Zea: 5.447565);
+dN tree:
+((((((Solanum: 0.048144, Coffea: 0.055817): 0.025202, Beta: 0.123906): 0.022325, (Malania: 0.036209, ((Dendropemon: 0.126949, Daenikera: 0.187447): 0.002694, ((Ombrophytum: 0.054471, (Lmirabile: 0.004010, Lpyramidale: 0.196486): 0.073403): 0.069838, Balanophora: 0.241851): 0.022508): 0.010196): 0.006195): 0.008494, (((Arabidopsis: 0.115637, Citrus: 0.058099): 0.016832, (((Prunus: 0.034183, Cucumis: 0.046367): 0.000000, (Glycine: 0.088638, Anadenanthera: 0.056910): 0.013175): 0.000007, Populus: 0.070784): 0.008934): 0.006358, Vitis: 0.077510): 0.000017): 0.026888, Nelumbo: 0.022775): 0.212948, Zea: 0.000545);
+
+w ratios as labels for TreeView:
+((((((Solanum #0.0742856 , Coffea #0.138771 ) #0.574528 , Beta #0.00158923 ) #0.0487555 , (Malania #0.163773 , ((Dendropemon #0.201725 , Daenikera #0.342167 ) #999 , ((Ombrophytum #0.11112 , (Lmirabile #0.0203557 , Lpyramidale #4.30184 ) #999 ) #0.000893443 , Balanophora #0.220013 ) #0.0306122 ) #0.174758 ) #999 ) #999 , (((Arabidopsis #0.148307 , Citrus #0.129677 ) #999 , (((Prunus #0.180927 , Cucumis #0.0617937 ) #0.0001 , (Glycine #0.182929 , Anadenanthera #0.111786 ) #0.03587 ) #0.0001 , Populus #0.0579847 ) #16.1749 ) #0.0361097 , Vitis #0.0783978 ) #0.0001 ) #606.989 , Nelumbo #0.043046 ) #635.65 , Zea #0.0001 );
+
+
+Time used: 18:51
