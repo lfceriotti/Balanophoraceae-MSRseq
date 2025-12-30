@@ -9,8 +9,11 @@ This workflow relies on [`bam-readcount`](https://github.com/genome/bam-readcoun
 For Lophophyum and Ombrophytum nuclear-encoded tRNA-Trps, reads exhibiting specific anticodon modifications were selectively extracted following this [workflow](https://github.com/lfceriotti/Balanophoraceae-MSRseq/edit/main/anticodon-mismatch-SAM-filtering).
 
 
+The generated data is processed with the script `base-modification-data-processing.R` and exports the output table `tRNA-base-modification.txt`.
+
+
 Three R scripts generate plots for:
-- mitochondrial tRNAs (mt-tRNAs)
-- nuclear-encoded tRNA-Trps in Balanophora
-- nuclear-encoded tRNA-Trps in Lophophytum and Ombrophytum
+- mitochondrial tRNAs: `mt-tRNAs-plot.R` (input file: `tRNA-base-modification.txt`)
+- nuclear-encoded tRNA-Trps in Balanophora: `Bal-Trp-tRNAs-plot.R` (input file: `tRNA-base-modification.txt`)
+- nuclear-encoded tRNA-Trps in Lophophytum and Ombrophytum: `Lopho-Ombro-Trp-tRNAs.R` (input files: `tRNA-base-modification.txt` and `TrpUCA-reads-base-mod.txt`)
 
