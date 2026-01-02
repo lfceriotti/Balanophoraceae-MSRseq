@@ -5,7 +5,7 @@ Analysis of [MSRseq](https://www.nature.com/articles/s41467-022-30261-3) dataset
 
 The main workflow for read processing, mapping, and classification is described [here](https://github.com/dbsloan/Arabidopsis_aminoacylation). 
 
-Additional datasets used to evaluate the extent of translational system alterations in Balanophoraceae are also included.
+The mitochondrial genome of *Ombrophytum subterraneum* (Rodeo) and additional datasets used to evaluate the extent of translational system alterations in Balanophoraceae are also included.
 
 ---
 
