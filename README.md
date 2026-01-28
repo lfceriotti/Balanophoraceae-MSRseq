@@ -4,7 +4,7 @@
 Analysis of [MSRseq](https://www.nature.com/articles/s41467-022-30261-3) datasets to assess expression, CCA-tailing, and post-transcriptional sequence modifications of Balanophoraceae tRNAs.
 
 The main workflow for read processing, mapping, and classification is described [here](https://github.com/dbsloan/Arabidopsis_aminoacylation). 
-tRNAs sequences used as reference are in file Arabidopsis_Balano4.fas.
+tRNAs sequences used as reference are in file Dataset2/Arabidopsis_Balano4.fas.
 
 The mitochondrial genome of *Ombrophytum subterraneum* and additional datasets used to evaluate the extent of translational system alterations in Balanophoraceae are also included.
 
