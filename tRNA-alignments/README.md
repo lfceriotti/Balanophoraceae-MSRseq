@@ -1,6 +1,6 @@
 ## Summary
 
-This folder contains tRNA sequence alignments used for the phylogenetic analyses presented in Figures 2 and 3.
+This folder contains tRNA sequence alignments used for the phylogenetic analyses presented in Figures 2 and 3, and for the study of the nuclear-encoded plastid-like tRNA-iMet sequence and flanking regions.
 
 **Figure 2** includes mitochondrial- and plastid-encoded tRNAs, as well as nuclear-encoded plastid tRNA-iMet genes identified in Balanophoraceae.
 
